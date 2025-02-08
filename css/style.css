@@ -906,6 +906,10 @@ border-radius: 50%;
 
 /*carousel*/
 
+#carousel
+{
+	padding-top:15vh;
+}
   .carousel-fade .carousel-control {
 	z-index: 2;
   }
